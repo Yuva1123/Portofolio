@@ -154,9 +154,13 @@ ul li a:hover{
   
   .start {
     max-width: 500px;
+      color: sandybrown;
   }
+.start h3{
+    color: chocolate;
+}
   .start span{
-    color: #00aaff;
+    color: chocolate;
   }
   
   @media (max-width: 768px) {
